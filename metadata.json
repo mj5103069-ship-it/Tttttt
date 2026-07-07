@@ -1,0 +1,6 @@
+{
+  "name": "Professional AI Chatbot",
+  "description": "An advanced, high-contrast AI chat assistant featuring session managers, system personas, real-time web search grounding, and beautiful markdown code highlighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
